@@ -15,7 +15,7 @@ setup(
     description="A quantum-inspired machine learning library for financial trading using Lorentzian distance",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/lorentzian-trading-core",
+    url="https://github.com/0x596173736972/lorentzian-trading-core",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
