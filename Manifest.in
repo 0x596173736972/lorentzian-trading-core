@@ -1,0 +1,14 @@
+include README.md
+include LICENSE
+include CHANGELOG.md
+include pyproject.toml
+recursive-include lorentzian_trading *.py
+recursive-include lorentzian_trading *.json
+recursive-include lorentzian_trading *.yaml
+recursive-include lorentzian_trading *.toml
+include lorentzian_trading/py.typed
+exclude tests/*
+exclude docs/*
+exclude .github/*
+exclude benchmarks/*
+exclude examples/*
