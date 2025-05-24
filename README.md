@@ -46,3 +46,7 @@ print(f"Confidence: {prediction['confidence']:.2%}")
 This library implements the concepts from the research on Lorentzian distance in financial markets, 
 addressing the limitations of traditional Euclidean distance in the presence of market warping effects 
 caused by significant economic events.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
